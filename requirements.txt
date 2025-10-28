@@ -1,0 +1,1 @@
+# Aucune dépendance externe n'est nécessaire pour ce projet.
